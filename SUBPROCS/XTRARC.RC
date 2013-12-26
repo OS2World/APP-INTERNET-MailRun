@@ -1,0 +1,21 @@
+/* XTRARC.RC */
+
+#include "f:\mailrun\mailrun\subprocs\xtrarc.h"
+
+
+MENU ID_MAILRUNMAIN
+BEGIN
+    MENUITEM "Sta~rt autochecking for mail", ID_MRAUTOCHECKSTART
+    MENUITEM "S~top autochecking for mail", ID_MRAUTOCHECKSTOP
+    MENUITEM "C~heck for mail now", ID_MRCHECKNOW
+    MENUITEM "M~inimize at program startup", ID_MRMINIMIZE
+    MENUITEM "~Minimize now", ID_MRMINIMIZENOW
+    MENUITEM "Start mail ~program", ID_MRSTARTPROG
+    MENUITEM "Pre~view mail", ID_MRPREVIEW
+    MENUITEM "~Quit", ID_MRQUIT
+    MENUITEM "~Settings ...", ID_MRSETTINGS 
+    MENUITEM "~NetChat settings ...", ID_NETCHATSET 
+    MENUITEM "~About ...", ID_MRABOUT
+END
+
+

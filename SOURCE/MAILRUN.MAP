@@ -1,0 +1,25 @@
+Stack Allocation = 524688 bytes
+
+ mailrun.exe
+
+ Start         Length     Name                   Class
+ 0001:00000000 000014EFCH CODE32                 CODE 32-bit
+ 0001:00014EFC 000000030H _MSGSEG32              CODE 32-bit
+ 0002:00000000 000000000H CONST32_RO             CONST 32-bit
+ 0002:00000000 0000017E0H DATA32                 DATA 32-bit
+ 0002:000017E0 000000000H CTOR_DTOR1             DATA 32-bit
+ 0002:000017E0 000000000H CTOR_DTOR2             DATA 32-bit
+ 0002:000017E0 000000000H CTOR_DTOR3             DATA 32-bit
+ 0002:000017E0 0000001D0H CONST32                CONST 32-bit
+ 0002:000019B0 00000000CH EDC1                   EDC_CLASS 32-bit
+ 0002:000019BC 00000033CH EDC2                   EDC_CLASS 32-bit
+ 0002:00001CF8 000000004H EDC3                   EDC_CLASS 32-bit
+ 0002:00001CFC 00000123CH BSS32                  BSS 32-bit
+ 0002:00002F38 000111760H c_common               BSS 32-bit
+ 0002:001146A0 000080190H STACK32                STACK 32-bit
+
+ Origin   Group
+ 0000:0   FLAT
+ 0002:0   DGROUP
+
+Program entry point at 0001:0000DBB0

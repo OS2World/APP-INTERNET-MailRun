@@ -1,0 +1,28 @@
+#include <os2.h>
+
+/* The following imported from the file F:\MAILRUN\MAILRUN\RESOURCE.VPC.*/
+
+RCINCLUDE  F:\MAILRUN\MAILRUN\SUBPROCS\XTRARC.RC
+ 
+
+/* The preceeding imported from the file F:\MAILRUN\MAILRUN\RESOURCE.VPC.*/
+
+rcinclude ABOUT.RC
+rcinclude DLOAD.RC
+rcinclude Main.RC
+rcinclude NCSET.RC
+rcinclude NOTIFY1.RC
+rcinclude PREVIEW.RC
+rcinclude SETTINGS.RC
+rcinclude VIEWMR.RC
+HELPTABLE  1
+  BEGIN
+    HELPITEM  258, 258, 0
+    HELPITEM  261, 261, 0
+    HELPITEM  256, 256, 0
+    HELPITEM  263, 263, 0
+    HELPITEM  259, 259, 0
+    HELPITEM  260, 260, 0
+    HELPITEM  257, 257, 0
+    HELPITEM  262, 262, 0
+  END
