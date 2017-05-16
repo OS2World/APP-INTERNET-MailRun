@@ -363,7 +363,7 @@ HWND OpenMain(HWND hwndOwner, PVOID pInfo)
    frameData.idResources=ID_MAINFORM;
    if (WinQueryWindowUShort(hwndOwner, QWS_ID) == FID_CLIENT)
       hwndOwner = WinQueryWindow(hwndOwner, QW_PARENT);
-   hwndFrame=WinCreateWindow(HWND_DESKTOP, WC_FRAME, "Mail Run", 0,0,0,0,0,hwndOwner,HWND_TOP,ID_MAINFORM,&frameData,0);
+   hwndFrame=WinCreateWindow(HWND_DESKTOP, WC_FRAME, "MailRun", 0,0,0,0,0,hwndOwner,HWND_TOP,ID_MAINFORM,&frameData,0);
    if (hwndFrame) {
       hwndClient =(HWND) WinLoadDlg(hwndFrame,
               hwndFrame,   

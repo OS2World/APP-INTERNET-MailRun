@@ -1,5 +1,5 @@
-Mail Run version 1.23
------------------------
+MailRun version 1.23
+----------------------
 1997 - Gary L. Robinson.
 2012 - Released as Open Source under the GNU GPL V2 license.
 --------------------------------------------------------------
@@ -10,7 +10,7 @@ Mail Run version 1.23
 What is MailRun?
 -----------------
 
-  MailRun is a small (both in the size of the executable file and the amount of screen real estate if takes up) and fast program to monitor your Pop3 mail account.
+  MailRun is a small (both in the size of the executable file and the amount of screen real estate if takes up) and fast program to monitor your POP3 mail account.
 
   It can be set to notify you in, numerous ways, when you have new incoming mail including starting other programs, beeping you, prompting you with a dialog, and playing .WAV files.   
 
@@ -26,7 +26,7 @@ What is MailRun?
 Why is MailRun?
 ----------------
 
-  MailRun was written to be a more flexible Pop3 mail monitor than currently is available. It takes up less screen space, it's executable is smaller in size, has numerous ways of notifying you of incoming mail, and has several other features not found together in any other Pop3 mail watcher.
+  MailRun was written to be a more flexible POP3 mail monitor than currently is available. It takes up less screen space, it's executable is smaller in size, has numerous ways of notifying you of incoming mail, and has several other features not found together in any other POP3 mail watcher.
 
   It also was written to work in conjunction with NetChat if desired.
 
@@ -219,7 +219,7 @@ MailRun preview dialog
 MailRun notification dialog
 --------------------------- 
 
-  MailRun can be set to notify you of incoming mail by poping up a dialog and showing you how many messages are waiting for you in your mail box.
+  MailRun can be set to notify you of incoming mail by popping up a dialog and showing you how many messages are waiting for you in your mail box.
 
   The mail notification dialog has several interesting features of its own.
 
@@ -239,7 +239,7 @@ MailRun notification dialog
 
   The suspend feature can be thought of as something similar to a "snooze" feature on an alarm clock.
 
-  The OK-Start preview button will close the notifation dialog and will start the Mail Prview program.
+  The OK-Start preview button will close the notifation dialog and will start the MailRun Preview program.
 
   The OK-Start program will close the dialog and start the program (if any is specified) that is pointed to in the "Start program on notification" entry field.  
 
@@ -247,11 +247,11 @@ MailRun notification dialog
 Registering MailRun 
 ----------------------
 
-  This version of MailRun is included free with NetChat and does not need to be separately registered. You are registered for it when you register for NetChat.
+  MailRun was included free with NetChat and did not need to be separately registered. You were registered for it when you registered for NetChat.
 
-  MailRun is currently not sold in any other manner and is only available with NetChat.
+  MailRun was currently not sold in any other manner and was only available with NetChat.
 
-Since 2012. MailRun is open source software under the GNU GPL license. 
+Since 2012 MailRun is open source software under the GNU GPL license. 
 
 
 

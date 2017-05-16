@@ -56,7 +56,7 @@ MRESULT EXPENTRY ABOUTDlgProc(HWND hwndDlg, ULONG msg, MPARAM mp1, MPARAM mp2)
       WinSetPresParam(WinWindowFromID(hwndDlg, 1000),
                       PP_FONTNAMESIZE,
                       strlen (fnt) + 1, fnt) ;
-      WinSetWindowText(WinWindowFromID(hwndDlg, 1000), "Mail Run");
+      WinSetWindowText(WinWindowFromID(hwndDlg, 1000), "MailRun");
 
 
       {

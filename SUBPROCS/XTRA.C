@@ -1,5 +1,7 @@
 /* xtra.c  */
 
+#define TCPV40HDRS
+
 #include <xtra.h>
 #include <xtrarc.h>
 #include <notify1.h>
@@ -3708,7 +3710,7 @@ switch (SHORT1FROMMP(mp1))
          }
       else
          {
-         msgOKBox(hwndDlg, "Attention!", "You must enter your domain name, user name, and password in the Mail Run settings page before running it.");
+         msgOKBox(hwndDlg, "Attention!", "You must enter your domain name, user name, and password in the MailRun settings page before running it.");
          }
       }
       break;
@@ -3754,7 +3756,7 @@ switch (SHORT1FROMMP(mp1))
          }
       else
          {
-         msgOKBox(hwndDlg, "Attention!", "You must enter your domain name, user name, and password in the Mail Run settings page before running it.");
+         msgOKBox(hwndDlg, "Attention!", "You must enter your domain name, user name, and password in the MailRun settings page before running it.");
          }
       }
       break;
@@ -3863,7 +3865,7 @@ if( strlen(mProg) > 0 )
    }
 else
    {
-   msgOKBox(HWND_DESKTOP, "Attention!", "You must enter your mail program in the Mail Run settings page.");
+   msgOKBox(HWND_DESKTOP, "Attention!", "You must enter your mail program in the MailRun settings page.");
    }
 }      
 

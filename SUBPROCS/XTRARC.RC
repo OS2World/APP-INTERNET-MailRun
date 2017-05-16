@@ -1,6 +1,6 @@
 /* XTRARC.RC */
 
-#include "f:\mailrun\mailrun\subprocs\xtrarc.h"
+#include "\subprocs\xtrarc.h"
 
 
 MENU ID_MAILRUNMAIN

@@ -1,11 +1,11 @@
 #include <os2.h>
 
-/* The following imported from the file F:\MAILRUN\MAILRUN\RESOURCE.VPC.*/
+/* The following imported from the file \RESOURCE.VPC.*/
 
-RCINCLUDE  F:\MAILRUN\MAILRUN\SUBPROCS\XTRARC.RC
+RCINCLUDE  \SUBPROCS\XTRARC.RC
  
 
-/* The preceeding imported from the file F:\MAILRUN\MAILRUN\RESOURCE.VPC.*/
+/* The preceeding imported from the file \RESOURCE.VPC.*/
 
 rcinclude ABOUT.RC
 rcinclude DLOAD.RC
