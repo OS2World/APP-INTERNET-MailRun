@@ -12,7 +12,7 @@ BEGIN
             PRESPARAMS PP_FOREGROUNDCOLOR,0x8000
             PRESPARAMS PP_BACKGROUNDCOLOR,0xcccccc
             PRESPARAMS PP_FONTNAMESIZE,"24.Times New Roman Bold Italic.Outline"
-    CONTROL "Version 1.42", 1001,
+    CONTROL "Version 1.43", 1001,
             2,84,206,8,
             WC_STATIC, WS_VISIBLE | WS_PARENTCLIP | WS_SYNCPAINT | 0x00000501 
             PRESPARAMS PP_BACKGROUNDCOLOR,0xcccccc
